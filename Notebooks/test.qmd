@@ -1,0 +1,10 @@
+---
+title: "Mi primer documento quarto"
+format: html
+---
+
+
+```{python}
+import pandas as pd
+
+```
